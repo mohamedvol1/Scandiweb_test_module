@@ -77,7 +77,6 @@ class CreateSneakersProduct implements DataPatchInterface
      */
     protected array $sourceItems = [];
 
-
     /**
      * Migration patch constructor.
      *
